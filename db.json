@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "mobile": "8380167167",
+      "address": "pune",
+      "services": "breakfast"
+    },
+    {
+      "id": 3,
+      "name": "pqrs",
+      "email": "pqrs@yahoo.com",
+      "mobile": "9881567167",
+      "address": "Mumbai",
+      "services": "Lunch"
+    },
+    {
+      "id": 4,
+      "name": "abcde",
+      "email": "abcd@gmail.cofm",
+      "mobile": "8380067167",
+      "address": "T-31 Disha Nagree, Beed By Pass Road, Aurangabad",
+      "services": "dsadasd"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
